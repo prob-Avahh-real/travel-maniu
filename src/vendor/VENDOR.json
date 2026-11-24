@@ -1,0 +1,7 @@
+{
+  "source": "../air-shared/wearable-input.js",
+  "target": "src/vendor/wearable-input.js",
+  "payloadSha256": "4fc8ba8c547975e8e2f70b59bbeb5b34a867aace2cbc0c82a0e254f6cee61f05",
+  "syncedAt": "2026-10-09",
+  "note": "payloadSha256 covers the canonical file byte-for-byte; the vendored file adds the header above."
+}

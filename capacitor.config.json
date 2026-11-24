@@ -1,0 +1,9 @@
+{
+  "appId": "com.maniu.travel",
+  "appName": "旅行马牛",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "StatusBar": { "style": "DARK", "backgroundColor": "#f6efe0" }
+  }
+}

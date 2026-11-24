@@ -1,0 +1,19 @@
+{
+  "name": "travel-maniu",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "旅行马牛 — 手绘风旅行青蛙式放置游戏（马头牛角）",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "conformance": "node tests/conformance.mjs --verbose",
+    "measure": "bash .auto/measure.sh",
+    "build": "node scripts/build-web.js",
+    "dev": "node scripts/serve.js"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
